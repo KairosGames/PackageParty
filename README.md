@@ -17,11 +17,8 @@ Good discovery,
 <br/>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTQ5NTIzMy84NzQ2Njc1LmdpZg==/347x500/h3GXD8.gif" />
-  <img src="https://img.itch.zone/aW1hZ2UvMTQ5NTIzMy84NzQ3ODEyLmdpZg==/347x500/2p1Lr2.gif" />
-  <img src="https://img.itch.zone/aW1hZ2UvMTQ5NTIzMy84NzQ3ODEzLmdpZg==/347x500/kkkk29.gif" />
-  <img src="https://img.itch.zone/aW1hZ2UvMTQ5NTIzMy84NzQ3ODY3LmdpZg==/347x500/vz8IFi.gif" />
-  <img src="https://img.itch.zone/aW1hZ2UvMTQ5NTIzMy84NzQ3OTExLmdpZg==/347x500/RZp%2FV3.gif" />
-  <img src="https://img.itch.zone/aW1hZ2UvMTQ5NTIzMy84NzQ3OTY2LmdpZg==/347x500/RQI5K7.gif" />
-  <img src="https://img.itch.zone/aW1hZ2UvMTQ5NTIzMy84NzQ3OTc5LmdpZg==/original/lzncDF.gif" />
+  <img src="https://img.itch.zone/aW1hZ2UvMTg4NzQwNS8xMTExMjM1Ni5naWY=/794x1000/op2aQS.gif" />
+  <img src="https://img.itch.zone/aW1hZ2UvMTg4NzQwNS8xMTExMjM1Ny5naWY=/794x1000/HVpvfU.gif" />
+  <img src="https://img.itch.zone/aW1hZ2UvMTg4NzQwNS8xMTExMjM1OC5naWY=/794x1000/0KydIt.gif" />
+  <img src="https://img.itch.zone/aW1hZ2UvMTg4NzQwNS8xMTExMjM1OS5naWY=/794x1000/BwvKzd.gif" />
 </p>
