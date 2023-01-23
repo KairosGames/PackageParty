@@ -8,7 +8,7 @@ I share with you below some gameplay moments.
 <br/>
 You can also discover a gameplay video by clicking on this link : https://youtu.be/vlSSe_iuraU   
 <br/>
-Or visit the Itch.io game page : https://kayrosgames.itch.io/pacakage-party  
+Or visit the Itch.io game page : https://kayrosgames.itch.io/package-party
 <br/>
 Good discovery,  
 
