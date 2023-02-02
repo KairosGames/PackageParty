@@ -10,6 +10,7 @@ You can also discover a gameplay video by clicking on this link : https://youtu.
 <br/>
 Or visit the Itch.io game page : https://kayrosgames.itch.io/package-party
 <br/>
+
 Good discovery,  
 
 <br/>
